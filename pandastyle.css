@@ -21,11 +21,7 @@ body{
 h1 {
     font-size: 60px;
     font-family: Georgia;
-    background: #c9bcff;
-    line-height: 80px;
-    padding: 20px;
 }
-
 h1, h2 {
     text-shadow: 3px 3px 6px #99bd00;
     color: olivedrab;
