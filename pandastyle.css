@@ -31,4 +31,5 @@ h1, h2 {
 p {
     background-color: seagreen;
     padding: 10px;
+    border-radius:20px;
 }
