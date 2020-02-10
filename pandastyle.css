@@ -5,7 +5,7 @@ img{
 body{
     font-family: Arial;
     line-height: 25px;
-    background-color: #dfff80;
+    background-color: #c2c2a3;
     margin: 0;
 }
 
@@ -21,4 +21,7 @@ body{
 h1 {
     font-size: 60px;
     font-family: Georgia;
+    background: #c9bcff;
+    line-height: 80px;
+    padding: 20px;
 }
