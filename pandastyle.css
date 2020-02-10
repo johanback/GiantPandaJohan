@@ -14,7 +14,8 @@ body{
     margin: 0px auto;
     background-color: white;
     padding: 40px 40px;
-
+    border-left: solid 25px lightpink;
+    border-right: solid 25px lightpink;
 }
 
 h1 {
