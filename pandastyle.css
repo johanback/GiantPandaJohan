@@ -21,6 +21,7 @@ body{
 h1 {
     font-size: 60px;
     font-family: Georgia;
+    padding: 15px 0;
 }
 h1, h2 {
     text-shadow: 3px 3px 6px #99bd00;
