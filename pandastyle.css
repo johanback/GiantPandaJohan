@@ -25,3 +25,8 @@ h1 {
     line-height: 80px;
     padding: 20px;
 }
+
+p {
+    background-color: seagreen;
+    padding: 10px;
+}
